@@ -83,8 +83,7 @@ personal page
 
 ## 6. 资源和工具
 - **教材**：[101 生物信息学]
-- **在线资源**：[ https://cloud.tsinghua.edu.cn/d/7b9e077b79a94f82b2d7/![image](https://github.com/user-attachments/assets/fec1e023-1934-4c06-b574-c09fe67ec681)
-]
+- **在线资源**：[ https://cloud.tsinghua.edu.cn/d/7b9e077b79a94f82b2d7/]
 - **软件工具**：[BLAST (Basic Local Alignment Search Tool)，Clustal Omega，Geneious，etc.]
 
 ## 7. 学习策略
