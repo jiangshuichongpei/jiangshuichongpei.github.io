@@ -82,9 +82,10 @@ personal page
 - **期末考试**：[60%]
 
 ## 6. 资源和工具
-- **教材**：[根据大纲填写]
-- **在线资源**：[根据大纲填写]
-- **软件工具**：[根据大纲填写]
+- **教材**：[101 生物信息学]
+- **在线资源**：[ https://cloud.tsinghua.edu.cn/d/7b9e077b79a94f82b2d7/![image](https://github.com/user-attachments/assets/fec1e023-1934-4c06-b574-c09fe67ec681)
+]
+- **软件工具**：[BLAST (Basic Local Alignment Search Tool)，Clustal Omega，Geneious，etc.]
 
 ## 7. 学习策略
 - **主动学习**：积极参与课堂讨论和实验室练习。
